@@ -1,0 +1,29 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "files.eol": "\n",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "cSpell.words": [
+    "FortiGate",
+    "Hanwha",
+    "NetBotz",
+    "Softerra",
+    "Suprema",
+    "Veeam",
+    "Vertiv",
+    "XProtect",
+    "ZKTeco",
+    "Cloudflare",
+    "jurong",
+    "Bong",
+    "UEN"
+  ]
+}
